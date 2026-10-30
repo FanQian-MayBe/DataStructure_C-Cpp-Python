@@ -1,2 +1,1 @@
-# DataStructure_C-Cpp-Python
-C/CPP/Python 分别实现数据结构
+# 用C/C++/Python 三种语言实现数据结构基本算法
